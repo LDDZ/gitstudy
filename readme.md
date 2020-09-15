@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quickk & simple.
 Creating a new branch is quick AND simple.
 强制禁用Fast forward模式
+使用Fast forward模式
